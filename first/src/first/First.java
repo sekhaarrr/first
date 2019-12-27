@@ -10,7 +10,7 @@ public static void main(String args[]) {
 	// We can run class directly
 	System.out.println("Kiran code");
 	
-	System.out.println("one more");
+	System.out.println("one two more");
 }
 
 }
